@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'MavenBlack';
+	src: url('maven/maven_pro_black-webfont.eot');
+	src: url('maven/maven_pro_black-webfont.eot?#iefix') format('eot'),
+		url('maven/maven_pro_black-webfont.woff') format('woff'),
+		url('maven/maven_pro_black-webfont.ttf') format('truetype'),
+		url('maven/maven_pro_black-webfont.svg#webfontXhB2DgBK') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MavenRegular';
+	src: url('maven/maven_pro_regular-webfont.eot');
+	src: url('maven/maven_pro_regular-webfont.eot?#iefix') format('eot'),
+		url('maven/maven_pro_regular-webfont.woff') format('woff'),
+		url('maven/maven_pro_regular-webfont.ttf') format('truetype'),
+		url('maven/maven_pro_regular-webfont.svg#webfontOM8fITNz') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
