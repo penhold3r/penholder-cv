@@ -1,6 +1,6 @@
 {
 	"name": "penholder-cv",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Penholder personal CV",
 	"main": "index.js",
 	"scripts": {
@@ -11,9 +11,9 @@
 	"author": "penHolder Designerd <penhold3r@gmail.com>",
 	"license": "MIT",
 	"devDependencies": {
-		"autoprefixer": "^9.7.0",
+		"autoprefixer": "^9.8.6",
 		"parcel-bundler": "^1.12.4",
-		"sass": "^1.23.1"
+		"sass": "^1.26.10"
 	},
 	"dependencies": {
 		"google-translate-api-browser": "^1.1.71"
